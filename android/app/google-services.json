@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009664174679",
+    "project_id": "machine-learning-96ce0",
+    "storage_bucket": "machine-learning-96ce0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009664174679:android:d3363945006df266bc1112",
+        "android_client_info": {
+          "package_name": "com.example.machine_learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHlMm5ceGrkhW8Cix-suxuTgttAeBGmNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
