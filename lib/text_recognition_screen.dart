@@ -19,7 +19,7 @@ class _TextRecognitionScreenState extends State<TextRecognitionScreen> {
 
   Future<void> pickedImage() async {
     final pickedFile =
-        await _imagePicker.pickImage(source: ImageSource.gallery);
+        await _imagePicker.pickImage(source: ImageSource.camera);
     if (pickedFile != null) {
       setState(() {
         _image = File(pickedFile.path);
